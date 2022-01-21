@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Change for merge-conflict master
+=======
+Change for merge-conflict master
+>>>>>>> mybranch
