@@ -1,1 +1,1 @@
-Random greeting
+Fav greeting
